@@ -10,7 +10,15 @@ export class TocPage implements OnInit {
     {
       title: 'Chapter 1 | The Beginning',
       url: '/chapter1'
-    }
+    },
+    {
+      title: 'Chapter 2 | The Plot Thickens',
+      url: '/chapter2'
+    },
+    {
+      title: 'Chapter 3 | The End',
+      url: '/chapter3'
+    },
   ];
   constructor() { }
 
